@@ -1,9 +1,9 @@
-ody{
-color:#340c42;
-background: #8795b0;
-margin: 0px;
-font-family: "Chakra Petch", sans-serif;
-margin-top: 50px;
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
